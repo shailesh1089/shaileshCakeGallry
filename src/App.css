@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.bg-primary {
+  background-color: #fd6363!important;
+}
+.btn-primary{
+  background-color: #fd6363;
+  border-color: #fd6363;
+}
+.btn-primary:hover{
+  background-color: #dd5757;
+  border-color: #dd5757;
+}
+a{
+  color:#dd5757;
+}
